@@ -1,3 +1,8 @@
+
+
+
+
+
 değişiklik
 NAME = libftprintf.a
 
