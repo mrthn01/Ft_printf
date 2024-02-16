@@ -1,3 +1,4 @@
+değişiklik
 NAME = libftprintf.a
 
 SRCS = ft_putchar.c ft_putstr.c ft_putnbr.c \
